@@ -1,4 +1,4 @@
-# Networked Suricata
+# Recursive Algorithms in Assembly
 
 Implementation of recursive and algorithmic routines in **x86 Assembly**, focused on network rule validation and traversal algorithms.
 
